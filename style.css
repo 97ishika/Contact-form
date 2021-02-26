@@ -1,15 +1,25 @@
 .Contact-div{
- background-color: Red;
   width: 20rem;
   font-family: "Montserrat", sans-serif;
+  position: absolute;
+  left: 60%;
+  bottom: 50%; 
+  margin: 5px;
+}
+h1{
+  padding: 20px;
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body{
   background-color: Blue;
+  background-image: url("https://images.unsplash.com/photo-1499159058454-75067059248a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80");
 }
 .submit-button{
   width: 100px;
   position: relative;
+  padding: 5px;
   left: 100px;
-  background-color: green;
+  background-color: #eabf9f;
 }
