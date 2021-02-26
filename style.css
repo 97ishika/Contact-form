@@ -1,0 +1,15 @@
+.Contact-div{
+ background-color: Red;
+  width: 20rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+body{
+  background-color: Blue;
+}
+.submit-button{
+  width: 100px;
+  position: relative;
+  left: 100px;
+  background-color: green;
+}
